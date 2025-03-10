@@ -1,2 +1,2 @@
 # R-projects
-Data analysis build using R language.
+Data analysis projects, build using R language.
